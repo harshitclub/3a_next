@@ -1,0 +1,11 @@
+.hr {
+  width: 20%;
+  border-bottom: 1px solid #090909;
+  margin: 1rem 0 0.2rem 0;
+}
+
+.hr2 {
+  width: 15%;
+  border-bottom: 1px solid #090909;
+  margin: 0 0 1rem 0;
+}

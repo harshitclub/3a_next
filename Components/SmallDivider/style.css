@@ -1,0 +1,11 @@
+.small-hr {
+  width: 13%;
+  border-bottom: 1px solid #090909;
+  margin: 1rem 0 0.2rem 0;
+}
+
+.small-hr2 {
+  width: 8%;
+  border-bottom: 1px solid #090909;
+  margin: 0 0 1rem 0;
+}

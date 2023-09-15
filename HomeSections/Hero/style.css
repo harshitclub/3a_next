@@ -1,0 +1,33 @@
+.hero {
+  height: 70vh;
+}
+
+/* .heroContainer {
+  margin: 3rem 0;
+} */
+
+.heroLeft h1 {
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+  font-size: 2rem;
+}
+
+.heroLeft h2 {
+  margin: 0 0 1rem 0;
+  font-weight: 500;
+  font-family: var(--font-caveat);
+  font-size: 2rem;
+}
+
+.heroLeft .heroDash {
+  margin: 0 0 0.5rem 0.5rem;
+  font-size: 1.2rem;
+}
+
+.heroLeft p {
+  font-size: 1.2rem;
+}
+
+.heroRight {
+  padding: 0 0 0 2rem;
+}

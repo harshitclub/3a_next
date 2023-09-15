@@ -1,0 +1,21 @@
+header {
+  font-family: var(--font-roboto);
+  height: 3.5rem;
+  border-bottom: 1px solid var(--border-grey);
+}
+
+.navLogo {
+  width: 7%;
+  height: auto;
+  margin: 0 3rem 0 0;
+}
+
+.menu ul li {
+  margin: 0 1rem;
+  font-weight: 500;
+  color: #090909;
+}
+
+.menu ul li a {
+  color: #090909;
+}

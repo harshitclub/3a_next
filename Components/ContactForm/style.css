@@ -1,0 +1,73 @@
+.contactForm h2 {
+  font-weight: 500;
+  margin: 0 0 1rem 0;
+}
+
+.inputsDiv {
+  margin: 0 0 0.5rem 0;
+}
+
+.inputDiv {
+  border: 1px solid var(--border-grey);
+  border-radius: 0.2rem;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0 0 0.2rem;
+}
+
+form input {
+  font-size: 1rem;
+  padding: 0.5rem 0.3rem;
+  border: none;
+  border-radius: 0.2rem;
+  outline: none;
+}
+
+.contactFormIcon {
+  color: #838383;
+  font-size: 1.5rem;
+  border-right: 1px solid var(--border-grey);
+  padding: 0 0.2rem 0 0;
+}
+
+form textarea {
+  resize: none;
+  font-size: 1rem;
+  padding: 0.5rem;
+  border: 1px solid var(--border-grey);
+  border-radius: 0.2rem;
+  outline: none;
+  margin: 0 0 0.3rem 0;
+  font-family: var(--font-roboto);
+}
+
+form button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.2rem;
+  background: linear-gradient(90deg, rgba(0, 0, 163, 1), rgba(0, 0, 255, 1));
+  width: 100%;
+  border: none;
+  padding: 0.5rem;
+  font-size: 1rem;
+  color: #fff;
+  border-radius: 0.2rem;
+  cursor: pointer;
+}
+
+form button:hover {
+  transition: all ease 0.9s;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 163, 1),
+    rgba(42, 42, 255, 1),
+    rgba(42, 42, 255, 1),
+    rgba(42, 42, 255, 1),
+    rgba(42, 42, 255, 1),
+    rgba(42, 42, 255, 1),
+    rgba(42, 42, 255, 1)
+  );
+}
+
+.formIcon {
+  margin: 0 0 -0.18rem 0;
+}
